@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">Daniela Frías — Creative Front-end Developer</title><desc id="desc">Editorial typographic banner in ink, berry, and lime with subtle animated cursor and grid.</desc>
+<defs><pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#5A4B5E" stroke-opacity=".22" stroke-width="1"/></pattern><clipPath id="crop"><rect width="1200" height="350" rx="16"/></clipPath></defs>
+<g clip-path="url(#crop)"><rect width="1200" height="350" fill="#1D1922"/><rect width="1200" height="350" fill="url(#grid)"/>
+<path d="M1010 -50L1250 -50L1250 240L1130 240Z" fill="#B5D875"/><path d="M1080 60L1210 60L1210 70L1080 70Z" fill="#1D1922"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="56" y="48" fill="#B5D875" font-size="15" font-weight="700" letter-spacing="3">CREATIVE DEVELOPMENT  /  2026</text>
+<text x="52" y="181" fill="#F4EFE6" font-size="116" font-weight="900" letter-spacing="-7">DANIELA</text>
+<text x="60" y="287" fill="#E28CB5" font-family="Georgia,Times New Roman,serif" font-size="118" font-style="italic" letter-spacing="-6">FRÍAS.</text>
+<path d="M445 304L684 292" stroke="#B5D875" stroke-width="9" stroke-linecap="square"/>
+<text x="737" y="124" fill="#F4EFE6" font-size="31" font-weight="700">DESIGN</text><text x="737" y="162" fill="#F4EFE6" font-size="31" font-weight="700">MEETS CODE</text>
+<text x="738" y="200" fill="#B5D875" font-size="15" letter-spacing="1.2">FRONT-END / UX/UI / CREATIVE WEB</text>
+<path d="M738 227H1040" stroke="#E28CB5" stroke-width="2"/><text x="738" y="252" fill="#D7CDD7" font-size="15">Thoughtful interfaces.</text><text x="738" y="275" fill="#D7CDD7" font-size="15">Expressive experiences.</text>
+<text x="740" y="320" fill="#E28CB5" font-family="monospace" font-size="14">const next = createSomethingBetter</text><rect x="1091" y="305" width="10" height="18" fill="#B5D875"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.4s" repeatCount="indefinite"/></rect></g>
+<path d="M55 327H435" stroke="#756675" stroke-width="1"/><circle cx="56" cy="327" r="4" fill="#B5D875"/></g></svg>
