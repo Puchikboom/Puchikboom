@@ -74,35 +74,39 @@ Each case study lives on my bilingual portfolio.
 
 ### 03 / THE TOOLKIT
 
-| **BUILD** | **DESIGN & DIRECTION** | **WORKFLOW** |
-|:---|:---|:---|
-| HTML · CSS · JavaScript | Figma · UX/UI | Git · GitHub |
-| PHP · WordPress | Prototyping · Art direction | Linux · VS Code |
-| Astro · Responsive UI | Design systems · Accessibility | Web QA · Performance |
+<img src="./assets/toolkit-board.svg" alt="Development: HTML, CSS, JavaScript, PHP, Astro and WordPress. Design: UX/UI, art direction, Figma and prototyping. Workflow: Git, GitHub, Linux, VS Code, QA and performance." width="100%" />
 
-**Also exploring:** creative coding, motion, Canvas, SVG, SvelteKit and modern application architectures. Frameworks are described as implemented in individual case studies only where confirmed.
+<sub>Also exploring: creative coding, Canvas, SVG, motion, SvelteKit and modern application architecture. Specific project implementations are documented in their case studies.</sub>
 
 ---
 
 ### 04 / THE PLAYGROUND
 
-**The portfolio itself is a creative coding experiment.**
+<a href="https://daniela-frias-creative-developer.pages.dev/en/playground/"><img src="./assets/playground-panel.svg" alt="Playground, an interactive creative coding lab featuring generative art, kinetic typography, an SVG poster editor, and motion controls. Open the lab." width="100%" /></a>
 
-Kinetic type, generative graphics, an SVG poster builder, and interactive motion controls — built to be explored, not just scrolled past.
+<div align="center">
 
-[**OPEN THE INTERACTIVE PLAYGROUND ↗**](https://daniela-frias-creative-developer.pages.dev/en/playground/)
+[**ENTER THE INTERACTIVE PLAYGROUND ↗**](https://daniela-frias-creative-developer.pages.dev/en/playground/)
+
+</div>
 
 ---
 
-### 05 / LET'S BUILD SOMETHING GOOD
+### 05 / LET'S MAKE IT REAL
 
-I'm open to **remote front-end, WordPress, and creative web development opportunities**, especially with teams that value clear deliverables, strong craft, and thoughtful asynchronous collaboration.
-
-[**PORTFOLIO**](https://daniela-frias-creative-developer.pages.dev/en/) &nbsp; · &nbsp; [**EMAIL**](mailto:briefcase.df@gmail.com) &nbsp; · &nbsp; [**DESIGN ARCHIVE**](https://briefcasedf.wixsite.com/ux-ui)
-
-<sub>🇪🇸 ¿Prefieres español? Visita el <a href="https://daniela-frias-creative-developer.pages.dev/es/">portafolio en español</a>. Diseño experiencias web que combinan criterio visual, código y personalidad.</sub>
+<img src="./assets/contact-panel.svg" alt="Let's build something good. Available for remote front-end, WordPress and creative web development." width="100%" />
 
 <div align="center">
+
+**Thoughtful design. Clean implementation. Strong creative direction.**  
+Open to remote roles and long-term collaborations with async-friendly international teams.
+
+[**✦ PORTFOLIO ↗**](https://daniela-frias-creative-developer.pages.dev/en/) &nbsp;&nbsp; / &nbsp;&nbsp; [**✉ EMAIL ME ↗**](mailto:briefcase.df@gmail.com) &nbsp;&nbsp; / &nbsp;&nbsp; [**DESIGN ARCHIVE ↗**](https://briefcasedf.wixsite.com/ux-ui)
+
+<sub>🇪🇸 ¿Prefieres español? Explora mi <a href="https://daniela-frias-creative-developer.pages.dev/es/">portafolio en español</a>.</sub>
+
 <br/>
-<sub>DESIGNED WITH INTENTION. BUILT WITH CODE. © 2026 DANIELA FRÍAS</sub>
+
+<sub>© 2026 DANIELA FRÍAS &nbsp; · &nbsp; DESIGNED WITH INTENTION. BUILT WITH CODE.</sub>
+
 </div>
