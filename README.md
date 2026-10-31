@@ -16,20 +16,20 @@ Based in Caracas, Venezuela · Working remotely with international teams
 
 ### 01 / THE INTRO
 
-## I make design come alive through code.
+## Design with character. Code with purpose.
 
-I'm a front-end developer and UX/UI designer with **13+ years in visual communication, digital design, and web experiences**. My work connects art direction, practical engineering, and thoughtful interaction: from expressive editorial sites to responsive interfaces and custom WordPress experiences.
+I'm a front-end developer and UX/UI designer with **13+ years of experience** across visual communication, digital design, and web production. I bring creative direction and implementation together to build distinctive, responsive websites—from editorial experiences to custom WordPress interfaces.
 
-I care about typography, performance, accessibility, and the details that make a website feel genuinely considered.
+My approach balances expressive typography and thoughtful interaction with accessibility, performance, and the technical details that make a website work beautifully.
 
-`DESIGN THINKING` &nbsp; × &nbsp; `FRONT-END DEVELOPMENT` &nbsp; × &nbsp; `CREATIVE INTERACTION`
+`VISUAL THINKING` &nbsp; × &nbsp; `FRONT-END DEVELOPMENT` &nbsp; × &nbsp; `CREATIVE INTERACTION`
 
 ---
 
 ### 02 / SELECTED WORK
 
-**Six different visual worlds. One approach: make the interface matter.**  
-Each case study lives on my bilingual portfolio.
+**Six projects. Six visual directions. One consistent standard of craft.**  
+Explore the case studies on my bilingual portfolio.
 
 <table>
 <tr>
