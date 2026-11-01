@@ -8,7 +8,7 @@
 
 Based in Caracas, Venezuela · Working remotely with international teams
 
-[**EXPLORE THE PORTFOLIO ↗**](https://daniela-frias-creative-developer.pages.dev/en/) &nbsp;&nbsp;·&nbsp;&nbsp; [**VIEW IN SPANISH ↗**](https://daniela-frias-creative-developer.pages.dev/es/) &nbsp;&nbsp;·&nbsp;&nbsp; [**EMAIL ME ↗**](mailto:briefcase.df@gmail.com)
+[**EXPLORE THE PORTFOLIO ↗**](https://daniela-frias-creative-developer.pages.dev/en/) &nbsp;&nbsp;·&nbsp;&nbsp; [**LINKEDIN ↗**](https://www.linkedin.com/in/daniela-frias-ibarra) &nbsp;&nbsp;·&nbsp;&nbsp; [**VIEW IN SPANISH ↗**](https://daniela-frias-creative-developer.pages.dev/es/) &nbsp;&nbsp;·&nbsp;&nbsp; [**EMAIL ME ↗**](mailto:briefcase.df@gmail.com)
 
 </div>
 
@@ -101,7 +101,7 @@ Explore the case studies on my bilingual portfolio.
 **Thoughtful design. Clean implementation. Strong creative direction.**  
 Open to remote roles and long-term collaborations with async-friendly international teams.
 
-[**✦ PORTFOLIO ↗**](https://daniela-frias-creative-developer.pages.dev/en/) &nbsp;&nbsp; / &nbsp;&nbsp; [**✉ EMAIL ME ↗**](mailto:briefcase.df@gmail.com) &nbsp;&nbsp; / &nbsp;&nbsp; [**DESIGN ARCHIVE ↗**](https://briefcasedf.wixsite.com/ux-ui)
+[**✦ PORTFOLIO ↗**](https://daniela-frias-creative-developer.pages.dev/en/) &nbsp;&nbsp; / &nbsp;&nbsp; [**LINKEDIN ↗**](https://www.linkedin.com/in/daniela-frias-ibarra) &nbsp;&nbsp; / &nbsp;&nbsp; [**✉ EMAIL ME ↗**](mailto:briefcase.df@gmail.com) &nbsp;&nbsp; / &nbsp;&nbsp; [**DESIGN ARCHIVE ↗**](https://briefcasedf.wixsite.com/ux-ui)
 
 <sub>🇪🇸 ¿Prefieres español? Explora mi <a href="https://daniela-frias-creative-developer.pages.dev/es/">portafolio en español</a>.</sub>
 
