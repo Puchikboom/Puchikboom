@@ -84,9 +84,9 @@ Explore the case studies on my bilingual portfolio.
 <sub>These are professionally used skills confirmed by me; the independent engineering labs are separate portfolio demonstrations built with original, synthetic data. No confidential employer material is published.</sub>
 
 **ENGINEERING LABS / IN PROGRESS**  
-[Pulse Studio — React + TypeScript + PHP](https://github.com/Puchikboom/daniela-frias-creative-developer/tree/feature/engineering-portfolio/labs/pulse-studio) · [Forma Studio — WordPress + PHP](https://github.com/Puchikboom/daniela-frias-creative-developer/tree/feature/engineering-portfolio/labs/forma-studio)
+[Pulse Studio — React + TypeScript + PHP](https://github.com/Puchikboom/daniela-frias-creative-developer/tree/main/labs/pulse-studio) · [Forma Studio — WordPress + PHP](https://github.com/Puchikboom/daniela-frias-creative-developer/tree/main/labs/forma-studio)
 
-<sub>Source prototypes; public production demos and browser-level verification are in progress.</sub>
+<sub>Original source projects are available on the main branch. Public interactive demos and browser-level verification are in progress.</sub>
 
 ---
 
