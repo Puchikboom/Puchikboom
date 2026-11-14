@@ -18,7 +18,7 @@ Based in Caracas, Venezuela · Working remotely with international teams
 
 ## Design with character. Code with purpose.
 
-I'm a front-end developer and UX/UI designer with **13+ years of experience** across visual communication, digital design, and web production. I bring creative direction and implementation together to build distinctive, responsive websites—from editorial experiences to custom WordPress interfaces.
+I'm a front-end developer with **7 years in web development**, **12 years working remotely**, and nearly **8 years collaborating with a US-based company**. My 13+ years in digital design and UX/UI bring a distinctive visual perspective to production web engineering. I work across JavaScript, React, TypeScript, PHP, SQL, WordPress, APIs, testing, and CI/CD.
 
 My approach balances expressive typography and thoughtful interaction with accessibility, performance, and the technical details that make a website work beautifully.
 
@@ -76,7 +76,17 @@ Explore the case studies on my bilingual portfolio.
 
 <img src="./assets/toolkit-board.svg" alt="Development: HTML, CSS, JavaScript, PHP, Astro and WordPress. Design: UX/UI, art direction, Figma and prototyping. Workflow: Git, GitHub, Linux, VS Code, QA and performance." width="100%" />
 
-<sub>Also exploring: creative coding, Canvas, SVG, motion, SvelteKit and modern application architecture. Specific project implementations are documented in their case studies.</sub>
+**Front-end:** JavaScript · TypeScript · React · HTML · CSS · Astro · Responsive UI  
+**Backend & data:** PHP · SQL · WordPress · REST APIs  
+**Engineering practices:** Testing · Git · GitHub · CI/CD · Accessibility · Performance  
+**Design:** UX/UI · Figma · Prototyping · Design systems
+
+<sub>These are professionally used skills confirmed by me; the independent engineering labs are separate portfolio demonstrations built with original, synthetic data. No confidential employer material is published.</sub>
+
+**ENGINEERING LABS / IN PROGRESS**  
+[Pulse Studio — React + TypeScript + PHP](https://github.com/Puchikboom/daniela-frias-creative-developer/tree/feature/engineering-portfolio/labs/pulse-studio) · [Forma Studio — WordPress + PHP](https://github.com/Puchikboom/daniela-frias-creative-developer/tree/feature/engineering-portfolio/labs/forma-studio)
+
+<sub>Source prototypes; public production demos and browser-level verification are in progress.</sub>
 
 ---
 
