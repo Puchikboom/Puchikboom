@@ -22,6 +22,9 @@ I'm a front-end developer with **7 years of web development experience**, **12 y
 
 My approach balances expressive typography and thoughtful interaction with accessibility, performance, and the technical details that make a website work beautifully.
 
+**TECHNICAL EXPERTISE → EVIDENCE** — Follow each capability directly to the code, interactive demo, or quality checks behind it.  
+[**Explore the evidence on Home ↗**](https://daniela-frias-creative-developer.pages.dev/en/#expertise) · [**About / Professional Experience ↗**](https://daniela-frias-creative-developer.pages.dev/en/about/)
+
 `VISUAL THINKING` &nbsp; × &nbsp; `FRONT-END DEVELOPMENT` &nbsp; × &nbsp; `CREATIVE INTERACTION`
 
 ---
