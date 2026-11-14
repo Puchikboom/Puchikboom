@@ -88,9 +88,9 @@ Explore the case studies on my bilingual portfolio.
 
 **ENGINEERING PRACTICE / EXPLORE THE CASE STUDIES**  
 [Editorial engineering overview — EN](https://daniela-frias-creative-developer.pages.dev/en/engineering/) · [Versión en español](https://daniela-frias-creative-developer.pages.dev/es/engineering/)  
-[Pulse Studio — React + TypeScript + PHP](https://github.com/Puchikboom/daniela-frias-creative-developer/tree/main/labs/pulse-studio) · [Forma Studio — WordPress + PHP](https://github.com/Puchikboom/daniela-frias-creative-developer/tree/main/labs/forma-studio)
+[Pulse Studio 2.0 — React + TypeScript + PHP/SQLite](https://github.com/Puchikboom/daniela-frias-creative-developer/tree/main/labs/pulse-studio) · [Forma Studio — WordPress + PHP](https://github.com/Puchikboom/daniela-frias-creative-developer/tree/main/labs/forma-studio)
 
-<sub>Original source projects are available on the main branch. Pulse Studio has an interactive browser-only demo; ThreadLab has browser checks. Forma Studio passes disposable WordPress/MySQL integration tests. These independent exercises are separate from confidential professional work.</sub>
+<sub>Original source projects are available on the main branch. Pulse Studio 2.0 has interactive, filtered analytics, safe CSV export and a browser-only demo with responsive and accessibility checks; ThreadLab has browser checks. Forma Studio passes disposable WordPress/MySQL integration tests. These independent exercises are separate from confidential professional work.</sub>
 
 ---
 
