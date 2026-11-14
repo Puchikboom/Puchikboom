@@ -99,6 +99,9 @@ Explore the case studies on my bilingual portfolio.
 
 [**ENTER THE INTERACTIVE PLAYGROUND ↗**](https://daniela-frias-creative-developer.pages.dev/en/playground/)
 
+**NEW / REACT API STUDIO** — React 19 + strict TypeScript, real same-origin JSON fetch, cancellation, loading/error/retry states, filters, and browser accessibility checks. Synthetic data and clearly simulated failure scenarios.  
+[**TRY EXPERIMENT 006 ↗**](https://daniela-frias-creative-developer.pages.dev/react-api-studio/?lang=en) · [**ESPAÑOL ↗**](https://daniela-frias-creative-developer.pages.dev/react-api-studio/?lang=es)
+
 **NEW / THREADLAB INTERACTIVE** — An original bilingual garment configurator with fabric, colour and fit controls, an SVG preview, shareable configuration and vector export.  
 [**TRY THREADLAB INTERACTIVE ↗**](https://daniela-frias-creative-developer.pages.dev/en/threadlab/) · [**VER EN ESPAÑOL ↗**](https://daniela-frias-creative-developer.pages.dev/es/threadlab/)
 
